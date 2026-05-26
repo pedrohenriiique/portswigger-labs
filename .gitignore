@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Word/PDF/txt
+*.docx
+*.doc
+*.pdf
